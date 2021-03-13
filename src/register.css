@@ -1,0 +1,9 @@
+.containerRegister{display: flex;color: black; background-color: white;}
+.register{margin: 4% 0% 3% 7%;}
+.grid-container {display: grid;grid-row-gap: 15px;grid-column-gap:25px; }
+.inputField{width:370px}
+#item7{ grid-column-start: 1;grid-column-end: 3;}
+a{color:  #0000FF;}
+#TC{color:rgba(114, 113, 113, 0.89);font-size: 12px;margin-top: 10px;}
+#select{border:0;outline: none;background-color: rgb(246, 244, 244);padding: 10px;}
+.passwordSpan{position:relative;right:20px;cursor:pointer}

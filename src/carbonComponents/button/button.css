@@ -1,0 +1,7 @@
+.btn{
+    color: #ffff;
+    background-color: #0000FF;
+    padding: 15px;text-align: left; border: 0;
+    cursor: pointer;
+}
+#arrow{float: right;}

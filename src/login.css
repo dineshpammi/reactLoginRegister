@@ -1,0 +1,6 @@
+.containerLogin{display: flex;color: black; background-color: white;}
+.login{margin: 3% 20% 3% 20%;}
+form{width: 130%;}
+.btn{width: 100%;}
+#forget{float: right;}
+a{color:  #0000FF;}
